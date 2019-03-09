@@ -1,6 +1,6 @@
 # Shared Element Transitions
 
-One Paragraph of project description goes here
+Shared Element Transitions in React Native
 
 ## Getting Started
 
