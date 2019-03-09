@@ -8,6 +8,11 @@ Shared Element Transitions in React Native
 
 This is a react native project, where I have tried to implement Shared Element Transitions using React Navigation's Fluid Navigator.
 
+### Prerequisites
+
+Make sure you have React Native dev environment set up in your machine.
+
+
 ### Installing
 
 Please follow the below mentioned steps inorder to run the project locally.
