@@ -51,7 +51,7 @@ react-native run-ios
 
 ## Authors
 
-* **Shihabudheen US** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Shihabudheen US** - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
