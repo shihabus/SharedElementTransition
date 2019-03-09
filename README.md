@@ -2,7 +2,7 @@
 
 Shared Element Transitions in React Native
 
-Screen record @https://youtu.be/eoMv4wq2gfE
+[Screen record](https://youtu.be/eoMv4wq2gfE)
 
 ## Getting Started
 
