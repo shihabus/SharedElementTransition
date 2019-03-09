@@ -1,10 +1,10 @@
-# Project Title
+# Shared Element Transitions
 
 One Paragraph of project description goes here
 
 ## Getting Started
 
-This is a react native project, where I have tried to implement Shared Element transistion using React Navigation's Fluid Navigator.
+This is a react native project, where I have tried to implement Shared Element Transitions using React Navigation's Fluid Navigator.
 
 ### Installing
 
